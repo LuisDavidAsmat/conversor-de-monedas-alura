@@ -1,0 +1,4 @@
+04-05-2025 15:53:49 - El valor 1.00 [USD] corresponde al valor final de =>>> 1172 [ARS]
+04-05-2025 15:54:00 - El valor 250.00 [BRL] corresponde al valor final de =>>> 44.075 [USD]
+04-05-2025 15:54:08 - El valor 10000.00 [COP] corresponde al valor final de =>>> 2.3618 [USD]
+04-05-2025 15:54:49 - El valor 50.00 [SGD] corresponde al valor final de =>>> 38.555 [USD]
