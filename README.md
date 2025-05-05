@@ -55,6 +55,5 @@ src/
 ***************************************************
 ```
 
-
--- Proyecto desarrollado como parte de la especialización Backend ONE de Alura y Oracle .
+Proyecto desarrollado como parte de la especialización Backend ONE de Alura y Oracle .
 
